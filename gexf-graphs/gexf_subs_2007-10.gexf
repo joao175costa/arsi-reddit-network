@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="comments" type="long" />
+      <attribute id="1" title="unique_authors" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>06/03/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="eo" label="eo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="es" label="es">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="lipstick.com" label="lipstick.com">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="sv" label="sv">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="no" label="no">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="zh" label="zh">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="sl" label="sl">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="arxiv" label="arxiv">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="freeculture" label="freeculture">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="fr" label="fr">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="request" label="request">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="de" label="de">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="ru" label="ru">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="features" label="features">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="id" label="id">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="joel" label="joel">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="it" label="it">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="ja" label="ja">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="tr" label="tr">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="netsec" label="netsec">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="ads" label="ads">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="35" />
+        </attvalues>
+      </node>
+      <node id="bugs" label="bugs">
+        <attvalues>
+          <attvalue for="0" value="104" />
+          <attvalue for="1" value="44" />
+        </attvalues>
+      </node>
+      <node id="nsfw" label="nsfw">
+        <attvalues>
+          <attvalue for="0" value="287" />
+          <attvalue for="1" value="126" />
+        </attvalues>
+      </node>
+      <node id="sports" label="sports">
+        <attvalues>
+          <attvalue for="0" value="300" />
+          <attvalue for="1" value="91" />
+        </attvalues>
+      </node>
+      <node id="gadgets" label="gadgets">
+        <attvalues>
+          <attvalue for="0" value="314" />
+          <attvalue for="1" value="104" />
+        </attvalues>
+      </node>
+      <node id="business" label="business">
+        <attvalues>
+          <attvalue for="0" value="526" />
+          <attvalue for="1" value="176" />
+        </attvalues>
+      </node>
+      <node id="gaming" label="gaming">
+        <attvalues>
+          <attvalue for="0" value="572" />
+          <attvalue for="1" value="195" />
+        </attvalues>
+      </node>
+      <node id="entertainment" label="entertainment">
+        <attvalues>
+          <attvalue for="0" value="819" />
+          <attvalue for="1" value="254" />
+        </attvalues>
+      </node>
+      <node id="science" label="science">
+        <attvalues>
+          <attvalue for="0" value="8326" />
+          <attvalue for="1" value="1898" />
+        </attvalues>
+      </node>
+      <node id="programming" label="programming">
+        <attvalues>
+          <attvalue for="0" value="16162" />
+          <attvalue for="1" value="2643" />
+        </attvalues>
+      </node>
+      <node id="politics" label="politics">
+        <attvalues>
+          <attvalue for="0" value="34088" />
+          <attvalue for="1" value="3162" />
+        </attvalues>
+      </node>
+      <node id="reddit.com" label="reddit.com">
+        <attvalues>
+          <attvalue for="0" value="88601" />
+          <attvalue for="1" value="8370" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="eo" target="programming" weight="1.0" />
+      <edge id="1" source="eo" target="reddit.com" weight="1.0" />
+      <edge id="2" source="es" target="reddit.com" weight="1.0" />
+      <edge id="3" source="zh" target="entertainment" weight="1.0" />
+      <edge id="4" source="zh" target="politics" weight="1.0" />
+      <edge id="5" source="zh" target="reddit.com" weight="1.0" />
+      <edge id="6" source="freeculture" target="sports" weight="1.0" />
+      <edge id="7" source="freeculture" target="science" weight="1.0" />
+      <edge id="8" source="freeculture" target="programming" weight="1.0" />
+      <edge id="9" source="freeculture" target="politics" weight="1.0" />
+      <edge id="10" source="freeculture" target="reddit.com" weight="1.0" />
+      <edge id="11" source="request" target="science" weight="1.0" />
+      <edge id="12" source="request" target="politics" weight="1.0" />
+      <edge id="13" source="request" target="reddit.com" weight="2.0" />
+      <edge id="14" source="de" target="gaming" weight="1.0" />
+      <edge id="15" source="de" target="science" weight="2.0" />
+      <edge id="16" source="de" target="programming" weight="2.0" />
+      <edge id="17" source="de" target="politics" weight="1.0" />
+      <edge id="18" source="de" target="reddit.com" weight="2.0" />
+      <edge id="19" source="ru" target="reddit.com" weight="1.0" />
+      <edge id="20" source="features" target="netsec" weight="1.0" />
+      <edge id="21" source="features" target="gaming" weight="1.0" />
+      <edge id="22" source="features" target="entertainment" weight="1.0" />
+      <edge id="23" source="features" target="science" weight="2.0" />
+      <edge id="24" source="features" target="programming" weight="7.0" />
+      <edge id="25" source="features" target="politics" weight="4.0" />
+      <edge id="26" source="features" target="reddit.com" weight="7.0" />
+      <edge id="27" source="joel" target="science" weight="1.0" />
+      <edge id="28" source="joel" target="politics" weight="1.0" />
+      <edge id="29" source="joel" target="reddit.com" weight="1.0" />
+      <edge id="30" source="it" target="science" weight="1.0" />
+      <edge id="31" source="it" target="politics" weight="1.0" />
+      <edge id="32" source="it" target="reddit.com" weight="1.0" />
+      <edge id="33" source="ja" target="science" weight="1.0" />
+      <edge id="34" source="ja" target="programming" weight="1.0" />
+      <edge id="35" source="ja" target="politics" weight="1.0" />
+      <edge id="36" source="ja" target="reddit.com" weight="1.0" />
+      <edge id="37" source="tr" target="reddit.com" weight="1.0" />
+      <edge id="38" source="netsec" target="nsfw" weight="1.0" />
+      <edge id="39" source="netsec" target="sports" weight="1.0" />
+      <edge id="40" source="netsec" target="business" weight="3.0" />
+      <edge id="41" source="netsec" target="entertainment" weight="2.0" />
+      <edge id="42" source="netsec" target="science" weight="6.0" />
+      <edge id="43" source="netsec" target="programming" weight="7.0" />
+      <edge id="44" source="netsec" target="politics" weight="5.0" />
+      <edge id="45" source="netsec" target="reddit.com" weight="13.0" />
+      <edge id="46" source="ads" target="sports" weight="1.0" />
+      <edge id="47" source="ads" target="entertainment" weight="1.0" />
+      <edge id="48" source="ads" target="science" weight="10.0" />
+      <edge id="49" source="ads" target="programming" weight="9.0" />
+      <edge id="50" source="ads" target="politics" weight="11.0" />
+      <edge id="51" source="ads" target="reddit.com" weight="15.0" />
+      <edge id="52" source="bugs" target="nsfw" weight="1.0" />
+      <edge id="53" source="bugs" target="gadgets" weight="1.0" />
+      <edge id="54" source="bugs" target="gaming" weight="2.0" />
+      <edge id="55" source="bugs" target="science" weight="20.0" />
+      <edge id="56" source="bugs" target="programming" weight="27.0" />
+      <edge id="57" source="bugs" target="politics" weight="18.0" />
+      <edge id="58" source="bugs" target="reddit.com" weight="35.0" />
+      <edge id="59" source="nsfw" target="sports" weight="1.0" />
+      <edge id="60" source="nsfw" target="gadgets" weight="3.0" />
+      <edge id="61" source="nsfw" target="business" weight="1.0" />
+      <edge id="62" source="nsfw" target="gaming" weight="5.0" />
+      <edge id="63" source="nsfw" target="entertainment" weight="7.0" />
+      <edge id="64" source="nsfw" target="science" weight="49.0" />
+      <edge id="65" source="nsfw" target="programming" weight="42.0" />
+      <edge id="66" source="nsfw" target="politics" weight="51.0" />
+      <edge id="67" source="nsfw" target="reddit.com" weight="86.0" />
+      <edge id="68" source="sports" target="gadgets" weight="3.0" />
+      <edge id="69" source="sports" target="business" weight="2.0" />
+      <edge id="70" source="sports" target="gaming" weight="2.0" />
+      <edge id="71" source="sports" target="entertainment" weight="15.0" />
+      <edge id="72" source="sports" target="science" weight="26.0" />
+      <edge id="73" source="sports" target="programming" weight="23.0" />
+      <edge id="74" source="sports" target="politics" weight="37.0" />
+      <edge id="75" source="sports" target="reddit.com" weight="61.0" />
+      <edge id="76" source="gadgets" target="business" weight="6.0" />
+      <edge id="77" source="gadgets" target="gaming" weight="12.0" />
+      <edge id="78" source="gadgets" target="entertainment" weight="10.0" />
+      <edge id="79" source="gadgets" target="science" weight="35.0" />
+      <edge id="80" source="gadgets" target="programming" weight="33.0" />
+      <edge id="81" source="gadgets" target="politics" weight="38.0" />
+      <edge id="82" source="gadgets" target="reddit.com" weight="72.0" />
+      <edge id="83" source="business" target="gaming" weight="4.0" />
+      <edge id="84" source="business" target="entertainment" weight="12.0" />
+      <edge id="85" source="business" target="science" weight="40.0" />
+      <edge id="86" source="business" target="programming" weight="27.0" />
+      <edge id="87" source="business" target="politics" weight="37.0" />
+      <edge id="88" source="business" target="reddit.com" weight="78.0" />
+      <edge id="89" source="gaming" target="entertainment" weight="13.0" />
+      <edge id="90" source="gaming" target="science" weight="61.0" />
+      <edge id="91" source="gaming" target="programming" weight="71.0" />
+      <edge id="92" source="gaming" target="politics" weight="65.0" />
+      <edge id="93" source="gaming" target="reddit.com" weight="124.0" />
+      <edge id="94" source="entertainment" target="science" weight="49.0" />
+      <edge id="95" source="entertainment" target="programming" weight="40.0" />
+      <edge id="96" source="entertainment" target="politics" weight="60.0" />
+      <edge id="97" source="entertainment" target="reddit.com" weight="145.0" />
+      <edge id="98" source="science" target="programming" weight="768.0" />
+      <edge id="99" source="science" target="politics" weight="1084.0" />
+      <edge id="100" source="science" target="reddit.com" weight="1560.0" />
+      <edge id="101" source="programming" target="politics" weight="961.0" />
+      <edge id="102" source="programming" target="reddit.com" weight="1634.0" />
+      <edge id="103" source="politics" target="reddit.com" weight="2524.0" />
+    </edges>
+  </graph>
+</gexf>
