@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
-  <graph defaultedgetype="undirected" mode="static" name="">
-    <attributes class="node" mode="static">
+  <graph defaultedgetype="undirected" mode="slice" timerepresentation="timestamp" timestamp="3" name="">
+    <attributes class="node" mode="dynamic">
       <attribute id="0" title="comments" type="long" />
       <attribute id="1" title="unique_authors" type="long" />
     </attributes>
