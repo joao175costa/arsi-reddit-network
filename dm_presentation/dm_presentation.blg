@@ -1,0 +1,20 @@
+[1] Config.pm:302> INFO - This is Biber 2.11
+[1] Config.pm:305> INFO - Logfile is 'dm_presentation.blg'
+[216] biber:313> INFO - === qua jun 13, 2018, 14:35:12
+[439] Biber.pm:371> INFO - Reading 'dm_presentation.bcf'
+[807] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[881] Biber.pm:3976> INFO - Processing section 0
+[1030] Biber.pm:4136> INFO - Looking for bibtex format file 'references.bib' for section 0
+[1055] bibtex.pm:1500> INFO - LaTeX decoding ...
+[1145] bibtex.pm:1316> INFO - Found BibTeX data source 'references.bib'
+[1177] Utils.pm:193> WARN - month field 'Oct' in entry 'first_debate' is not an integer - this will probably not sort properly.
+[1219] Utils.pm:193> WARN - month field 'Oct' in entry 'second_debate' is not an integer - this will probably not sort properly.
+[1287] Utils.pm:193> WARN - month field 'Oct' in entry 'vp_debate' is not an integer - this will probably not sort properly.
+[1322] Utils.pm:193> WARN - month field 'Oct' in entry 'third_debate' is not an integer - this will probably not sort properly.
+[1514] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1514] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1515] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1516] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[1704] bbl.pm:617> INFO - Writing 'dm_presentation.bbl' with encoding 'UTF-8'
+[1724] bbl.pm:720> INFO - Output to dm_presentation.bbl
+[1725] Biber.pm:110> INFO - WARNINGS: 4
