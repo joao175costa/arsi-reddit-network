@@ -36,14 +36,14 @@ order=1
 
 [view-settings,view=0,item:dm_presentation.tex]
 CursorColumn=11
-CursorLine=147
+CursorLine=452
 JumpList=
 TextFolding=[]
-ViMarks=.,147,0,[,137,0,],147,10
+ViMarks=.,0,35,[,0,30,],0,35
 
 [view-settings,view=0,item:references.bib]
-CursorColumn=17
-CursorLine=101
+CursorColumn=30
+CursorLine=11
 JumpList=
 TextFolding=[]
 ViMarks=.,101,16,[,101,6,],101,16
